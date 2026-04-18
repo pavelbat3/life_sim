@@ -1,3 +1,4 @@
+# main.py
 from ecosystem import Ecosystem
 from organism import Organism
 
